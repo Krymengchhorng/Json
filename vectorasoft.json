@@ -6,7 +6,7 @@
         "rating": 8.9
     },
     {
-        "name": "Startup group",
+        "name": "Startup small group",
         "numberOfEmployees": 5,
         "ceo": null,
         "rating": 3.4
@@ -15,7 +15,7 @@
     {
         "name": "Big Corporation",
         "numberOfEmployees": 6,
-        "ceo": "james",
+        "ceo": "jame",
         "rating": 4.5
     }
 ]
