@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var person = {
+            name: "Chhhorng",
+            age: 20,
+            isAlive: true,
+            address:{
+                street: "007 Road",
+                city: "Phnom penh",
+                zipcode: 855
+            }
+        }
+        // document.write(person.age);
+        // document.write(person.isAlive);
+        // document.write(person.address.city);
+        var myobj = JSON.stringify(person);
+        document.write(myobj);
+    </script>
+</body>
+</html>

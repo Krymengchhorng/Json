@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Vectorasoft",
+        "numberOfEmployees": 10,
+        "ceo": "Sam Sethy",
+        "rating": 8.9
+    },
+    {
+        "name": "Startup group",
+        "numberOfEmployees": 5,
+        "ceo": null,
+        "rating": 3.4
+    },
+    
+    {
+        "name": "Big Corporation",
+        "numberOfEmployees": 6,
+        "ceo": "james",
+        "rating": 4.5
+    }
+]
